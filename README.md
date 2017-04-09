@@ -3,6 +3,7 @@ This game show several 3D moleculars and ask the user is the molecular is chiral
 
 # CREDITS
 Coder : F. Lozes
+
 Game Designer : W. Guérin
 
 Thankful to P. Grenier for the Molecular modelling.
