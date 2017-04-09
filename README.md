@@ -6,7 +6,7 @@ Coder : F. Lozes
 
 Game Designer : W. Guérin
 
-Thankful to P. Grenier for the Molecular modelling.
+Thankful to P. Grenier for the molecular modelling.
 
 The source code of this program is under WTFPL-2.0, and is available in the game by clicking on the OPTIC logo.
 
